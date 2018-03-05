@@ -1,0 +1,8 @@
+a { color: #333333; text-decoration: none; }
+a:hover { color: #e15782; }
+body { background: #F0F0EE; font-family: "Microsoft Yahei"; font-size: 0; margin: 0 auto; width: 1000px; }
+body>header { margin: 10px auto; }
+body>header>img { display: inline-block; vertical-align: middle; width: 240px; }
+body>header>nav { display: inline-block; text-align: right; vertical-align: middle; width: 760px; }
+body>header>nav>a { display: inline-block; font-size: 22px; margin: auto auto auto 10px; }
+body>footer { font-size: 15px; margin: 10px auto; text-align: center; }

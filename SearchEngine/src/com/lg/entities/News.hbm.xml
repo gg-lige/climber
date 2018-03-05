@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-1-12 10:28:55 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+	<class name="com.lg.entities.New" table="Search_Engine_Test_ZXL">
+		<id name="url" type="java.lang.String">
+			<column name="URL" />
+		</id>
+		<property name="content" type="java.lang.String">
+			<column name="HTML" />
+		</property>
+		<property name="type" type="java.lang.String">
+			<column name="TYPE" />
+		</property>
+		<property name="urlList" type="java.lang.String">
+			<column name="URLList" />
+		</property>
+	</class>
+</hibernate-mapping>

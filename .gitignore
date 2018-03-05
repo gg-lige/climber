@@ -1,0 +1,9 @@
+SearchEngine/build/
+SearchEngine/.settings/
+
+SearchEngine/conf/
+SearchEngine/.classpath
+SearchEngine/.project
+manager/target/
+manager/.classpath
+manager/.project
