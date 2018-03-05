@@ -2,7 +2,8 @@
 
 >  
 > 本工程目标是实现一个小型新闻搜索引擎
-> 
+>
+> pagerank 部分代码为[rank](https://github.com/gg-lige/rank)
 
 ## 系统介绍
 
